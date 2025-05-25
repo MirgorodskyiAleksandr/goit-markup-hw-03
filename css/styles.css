@@ -22,6 +22,9 @@ h6 p {
   margin: 0;
 }
 
+img {
+  display: block;
+}
 a {
   text-decoration: none;
 }
@@ -247,6 +250,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .user-link-text {
@@ -256,7 +260,6 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  margin-bottom: 8px;
 }
 
 /* heading-main Our Portfolio */
@@ -324,6 +327,9 @@ a {
 
 .footer-logo .logo-part {
   color: #f4f4fd;
+}
+
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
