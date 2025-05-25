@@ -236,7 +236,6 @@ a {
   width: calc((100% - 72px) / 4);
 }
 .user-img {
-  margin-bottom: 32px;
 }
 
 .inside-container {
@@ -340,4 +339,7 @@ a {
 
 .footer-text {
   color: var(--text-color-footer);
+  max-width: 264px;
+  line-height: 1.5;
+  margin-top: 16px;
 }
